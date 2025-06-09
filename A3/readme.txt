@@ -12,3 +12,4 @@ The subsampling approach come when I found a similar analysis at the Earth Data 
 By the end, the matplotlib have a lot of specificities which are not the easiest way, I far prefer ggplot in R to create stunning things than matplotlib. 
 However it seens that the pythonical ideology is being well accept between a broad range of niches.
 
+So far, this is the beginning of the wind vector fields animation. The final project proposed
